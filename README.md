@@ -44,11 +44,15 @@ This project aims to empower HR analytics by forecasting employee attrition usin
 - And more...
 
 ## 📁 File Structure
-├── data/ # Raw and processed data files
-├── ChurnAnalysis.ipynb # Main notebook for churn modeling
-├── Churn_Dashboard.pdf # Visual dashboard of key insights
-├── LICENSE # Project licensing info
-└── README.md # Project overview and documentation
+
+```
+├── data/                   # Raw and processed data files  
+├── ChurnAnalysis.ipynb     # Main notebook for churn modeling  
+├── Churn_Dashboard.pdf     # Visual dashboard of key insights  
+├── LICENSE                 # Project licensing info  
+└── README.md               # Project overview and documentation  
+```
+
 
 ## 🚀 Results & Impact
 
